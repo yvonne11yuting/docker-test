@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Edit <code>src/App.js</code> and save to reload. Update some words!!!
         </p>
         <a
           className="App-link"
@@ -17,6 +17,7 @@ function App() {
         >
           Learn React
         </a>
+        <h2>hihihi docker~! I can not believe you can hot reload!</h2>
       </header>
     </div>
   );
